@@ -22,7 +22,7 @@ Here are the primary technologies we use across the project:
 | **Category**       | **Technologies**                          |
 | ------------------ | ----------------------------------------- |
 | **Languages**      | `TypeScript` `Java`                       |
-| **Frameworks**     | `Vite`, `Spring`                          |
+| **Frameworks**     | `Vite` `Spring`                           |
 | **Infrastructure** | `Docker Swarm` `GitHub Actions` `Ansible` |
 | **Databases**      | `PostgreSQL` `MongoDB` `Redis`            |
 | **Observability**  | `Grafana Stack`                           |
